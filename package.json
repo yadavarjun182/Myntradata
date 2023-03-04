@@ -1,0 +1,24 @@
+{
+  "name": "myntradata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavarjun182/Myntradata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavarjun182/Myntradata/issues"
+  },
+  "homepage": "https://github.com/yadavarjun182/Myntradata#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
